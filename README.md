@@ -1,6 +1,6 @@
 ### Todo List Project
 
-This is a simple to-do list project implemented using TypeScript and Vue.js.
+This is a TO-DO list project implemented using TypeScript and Vue.js.
 
 ## Features
 
